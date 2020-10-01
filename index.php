@@ -3,14 +3,15 @@
 include "inc/header.php";
 ?>
 
-
 <div class="container">
 
-    <h1>parlons</h1>
+    <h1>covid</h1>
 </div>
-
 
 
 <?php
 include "inc/footer.php";
 ?>
+
+
+

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="851c5e48-4a56-4d39-b521-0f7157113c65" name="Default Changelist" comment="" />
+    <list default="true" id="851c5e48-4a56-4d39-b521-0f7157113c65" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/inc/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecovid.php" beforeDir="false" afterPath="$PROJECT_DIR$/lecovid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesmasques.php" beforeDir="false" afterPath="$PROJECT_DIR$/lesmasques.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lestests.php" beforeDir="false" afterPath="$PROJECT_DIR$/lestests.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parlons.php" beforeDir="false" afterPath="$PROJECT_DIR$/parlons.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +18,12 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectId" id="1iGqxPEGKfc3pRyrvOW6M00Legw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601544521796</updated>
       <workItem from="1601544522830" duration="1648000" />
+      <workItem from="1601546469083" duration="41000" />
+      <workItem from="1601548087340" duration="967000" />
     </task>
     <servers />
   </component>
@@ -45,5 +59,13 @@
       <screen x="0" y="27" width="1920" height="995" />
     </state>
     <state x="605" y="148" width="700" height="759" key="#PHP/0.27.1920.995@0.27.1920.995" timestamp="1601544612579" />
+    <state x="804" y="424" width="311" height="207" key="Github.ShareDialog" timestamp="1601546486932">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="804" y="424" width="311" height="207" key="Github.ShareDialog/0.27.1920.995@0.27.1920.995" timestamp="1601546486932" />
+    <state x="665" y="208" width="580" height="639" key="Github.UntrackedFilesDialog" timestamp="1601546496431">
+      <screen x="0" y="27" width="1920" height="995" />
+    </state>
+    <state x="665" y="208" width="580" height="639" key="Github.UntrackedFilesDialog/0.27.1920.995@0.27.1920.995" timestamp="1601546496431" />
   </component>
 </project>
